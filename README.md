@@ -13,5 +13,5 @@ are: bias/variance trade-off, app development, over-fitting and model tuning, re
 (SVMs, K-nearest neighbors), regression trees, classification models – logistic regression, random forest, 
 dealing with unbalanced data, feature selection, and predictor importance.
 
-Some of the solutions presented here include; determining probablity of heart disease, creating a data lake for a small business, 
+Some of the solutions presented here include; app development, determining probablity of heart disease, creating a data lake for a small business, 
 price forecasting for Sourcing Dept., and machine learning solutions.
