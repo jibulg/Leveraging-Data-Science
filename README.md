@@ -12,3 +12,6 @@ identify potential impacts to their business and to support business decisions. 
 are: bias/variance trade-off, app development, over-fitting and model tuning, regression models – linear, nonlinear 
 (SVMs, K-nearest neighbors), regression trees, classification models – logistic regression, random forest, 
 dealing with unbalanced data, feature selection, and predictor importance.
+
+Some of the solutions presented here include; determining probablity of heart disease, creating a data lake for a small business, 
+and machine learning solutions.
