@@ -9,6 +9,6 @@ TensorFlow, Keras Deep Learning, Kubernetes, and Docker.
 I apply the concepts of statistics, algorithms, and models to interact with 
 data for the purpose of predictive analytics. Predictive analytics has the capability to help organizations 
 identify potential impacts to their business and to support business decisions. Concepts that are included 
-are: bias/variance trade-off, over-fitting and model tuning, regression models – linear, nonlinear 
+are: bias/variance trade-off, app development, over-fitting and model tuning, regression models – linear, nonlinear 
 (SVMs, K-nearest neighbors), regression trees, classification models – logistic regression, random forest, 
 dealing with unbalanced data, feature selection, and predictor importance.
